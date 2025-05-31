@@ -3,7 +3,7 @@
 # NAME: RAMANNAGARI SAI MYTHILI
 # INTERN ID:CT08DN1691
 # DOMAIN:ARTIFICIAL INTELLIGENCE
-# DURATION:4 WEEKS
+# DURATION:8 WEEKS
 # MENTOR:NEELA SANTOSH
 # Creating a text summarization tool using Natural Language Processing (NLP) in Python can be done using several libraries like NLTK, spaCy, or Hugging Face Transformers.
 # There are two primary types of text summarization techniques:
